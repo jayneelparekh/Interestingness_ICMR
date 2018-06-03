@@ -1,7 +1,7 @@
 # Interestingness_ICMR
 
-Code for the work: "Deep Pairwise Classification & Ranking for Predicting Media Interestingness" 
-by Jayneel Parekh, Harshvardhan Tibrewal, Sanjeel Parekh
+Code for the work: "Deep Pairwise Classification & Ranking for Predicting Media Interestingness" by
+*Jayneel Parekh, Harshvardhan Tibrewal, Sanjeel Parekh*
 ("Mention arXiv link")
 
 ### Requirements
