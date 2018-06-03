@@ -5,7 +5,6 @@ from keras import callbacks as cbk
 import numpy as np
 import random
 from keras.utils import to_categorical
-import matplotlib.pyplot as plt
 import Ranker
 import sys
 
@@ -216,15 +215,3 @@ if __name__== '__main__':
     else:
         print "ERROR: Choose between train or test"
         sys.exit()
-
-
-
-
-# Plotting MAP@10 and MAP
-#plt.plot(np.array(range(num_epoch)), MAP_at_10)
-#plt.show()
-
-
-
-
-    
