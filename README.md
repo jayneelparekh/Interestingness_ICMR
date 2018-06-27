@@ -1,8 +1,7 @@
 # Interestingness_ICMR
 
-Code for the work: **Deep Pairwise Classification & Ranking for Predicting Media Interestingness** by
+Code for the work: <a href=https://www.researchgate.net/publication/325705259_Deep_Pairwise_Classification_and_Ranking_for_Predicting_Media_Interestingness> **Deep Pairwise Classification & Ranking for Predicting Media Interestingness** </a> by
 *Jayneel Parekh, Harshvardhan Tibrewal, Sanjeel Parekh*
-("Mention arXiv link")
 
 ### Requirements
 - numpy 
@@ -10,10 +9,10 @@ Code for the work: **Deep Pairwise Classification & Ranking for Predicting Media
 - keras >= 2.1.3
 
 ### Data
-Contains code for training/testing our system on the MediaEval Dataset
-(http://www.multimediaeval.org/mediaeval2017/mediainterestingness/index.html).
+Contains code for training/testing our system on the MediaEval Predicting Media Interestingness Dataset
+(Link for task description: http://www.multimediaeval.org/mediaeval2017/mediainterestingness/index.html).
 
-> The MediaEval Dataset needs to be acquired by the user himself/herself.
+> The Dataset needs to be acquired by the user himself/herself.
 > We will check if we can upload the feature respresentations used by us.
 
 The Network Weights file (for testing system we trained) exceeds the max file size of git, thus not uploaded here.
@@ -41,4 +40,3 @@ Example : python train_nn.py image train mih_to
 Currently the model is fixed and uses fc7 features (AlexNet) for images and c3d features for videos. 
 
 Next possible update is to allow more flexibility in feature respresentation of the input.
-
