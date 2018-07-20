@@ -15,9 +15,7 @@ Contains code for training/testing our system on the MediaEval Predicting Media 
 > The Dataset needs to be acquired by the user himself/herself.
 > We will check if we can upload the feature respresentations used by us.
 
-The Network Weights file (for testing system we trained) exceeds the max file size of git, thus not uploaded here.
-Will be uploaded soon, but not on git. Link will be added here
-
+The Network Weights file (for testing system we trained) exceeds the max file size of git, thus not uploaded here. Weights for image subtask: https://drive.google.com/file/d/13prsjQ5FwsfHrPjkw-dXJorq6C53hd5l/view?usp=sharing
 
 ### Usage
 Command to train image interestingness system: 
